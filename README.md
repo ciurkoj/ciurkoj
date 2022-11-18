@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ciurkoj
+- 👋 Hi, I’m Jakub
 - 👀 I’m interested in mobile app development and cybersecurity
 - 🌱 I’m currently learning BLoc pattern in Flutter
 - 💞️ I’m looking to collaborate on an interesting project, ideally in Flutter
